@@ -16,6 +16,11 @@
   - Use terminal aliases
   - Use browser plug-ins
   - Customize Sublime and Atom to be like vim
+  
+* DJ Greenfield - "Amelioration Pattern: Modelling the Current User' (30-45 min)
+  - Identify the antipattern of ```current_user``` as a helper method
+  - Explore Draper and ```<%= render current_user.nav_partial %>``` as solutions
+  - Eliminate conditions from the views
 
 #### Friday, July 24
 
